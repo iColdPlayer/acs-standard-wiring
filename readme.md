@@ -9,7 +9,7 @@ This wiring can be use for multiple devices such as the board of the devices are
 ### **This sample board below I took from Hikvision so it much easier to read.**
 ![hikvision wiring](default-door.png)
 
-![hikvision](default-terminal.png)
+![hikvision](default-terminal.PNG)
 
 I've made it simple as I can and more readable for it.
 
