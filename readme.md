@@ -2,11 +2,12 @@
 
 #### Please read the instruction below.
 
-This wiring can be use for multiple devices such as the board of the devices are similiarly looks like this.
+Basically, this wiring can be used for multiple devices.
+Cause the differences is not much, however, u can also use this wiring with your own device. it should be work as long as the circuit board similarly looks like this.
 
 ![Wiring ACS](wr2.png)
 
-### **This sample board below I took from Hikvision so it much easier to read.**
+### **This sample board below I took from Hikvision so it much easier for you to read.**
 ![hikvision wiring](default-door.png)
 
 ![hikvision](default-terminal.PNG)
